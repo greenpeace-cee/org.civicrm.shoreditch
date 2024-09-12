@@ -79,7 +79,7 @@ details {
   border-radius: 0;
   margin-bottom: 0;
 
-  &:[open] {
+  &[open] {
     summary {
       &::before {
         content: '\f107';
